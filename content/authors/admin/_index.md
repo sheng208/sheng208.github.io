@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shieng
+title: 事成 盛
 
 # Name pronunciation (optional)
 name_pronunciation: Shicheng Sheng
