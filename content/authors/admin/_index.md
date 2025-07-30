@@ -9,10 +9,6 @@ name_pronunciation: Shicheng Sheng
 first_name: Shicheng
 last_name: Sheng
 
-# # Status emoji
-# status:
-#   icon: 🫖
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -31,7 +27,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:shicheng@email.ustc.edu.cn'
+    url: 'mailto:shicheng@mail.ustc.edu.cn'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/sheng208/
@@ -59,7 +55,6 @@ education:
     date_end: 2022-07-01
     summary: |
       GPA: 3.7/4.3
-      HONOR: Outstanding Graduate of USTC
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -68,16 +63,12 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 75
         icon: code-bracket
-      - name: Data Science
+      - name: Perl
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -85,15 +76,11 @@ skills:
       - name: Badminton
         description: ''
         percent: 100
-        icon: person-simple-walk
-      - name: Running
-        description: ''
-        percent: 75
-        icon: cat
+        icon: sports
       - name: Reading
         description: ''
         percent: 75
-        icon: camera
+        icon: fa-book-open
 
 languages:
   - name: English
@@ -106,13 +93,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  # - title: Neural Networks and Deep Learning
-  #   url: https://www.coursera.org/learn/neural-networks-deep-learning
-  #   date: '2023-11-25'
-  #   awarder: Coursera
+  - title: Outstanding Graduate of USTC
+    url: https://www.ustc.edu.cn
+    date: '2022-06-25'
+    awarder: USTC
   #   icon: coursera
-  #   summary: |
-  #     I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    summary: |
+      From 2018 to 2022, I studied and lived at the University of Science and Technology of China, where I received systematic training in mathematics and physics. During this time, I formed many valuable friendships, with J. Lu being one of my closest friends. In the end, I was honored to be named an Outstanding Graduate, marking the beginning of my new journey.
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
