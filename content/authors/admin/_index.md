@@ -37,7 +37,7 @@ profiles:
 interests:
   - Seismology
   - Badminton
-  - Running
+  - Reading
 
 education:
   - area: PhD Geophysics
