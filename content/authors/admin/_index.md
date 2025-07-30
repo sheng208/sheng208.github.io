@@ -9,9 +9,9 @@ name_pronunciation: Shicheng Sheng
 first_name: Shicheng
 last_name: Sheng
 
-# Status emoji
-status:
-  icon: 🫖
+# # Status emoji
+# status:
+#   icon: 🫖
 
 # Is this the primary user of the site?
 superuser: true
