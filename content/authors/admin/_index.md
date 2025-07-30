@@ -80,11 +80,11 @@ skills:
       - name: Reading
         description: ''
         percent: 75
-        icon: fa-book-open
+        icon: book
 
 languages:
   - name: English
-    percent: 60
+    percent: 75
   - name: Chinese
     percent: 100
 
@@ -94,7 +94,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Graduate of USTC
-    url: https://www.ustc.edu.cn
+    # url: https://www.ustc.edu.cn
     date: '2022-06-25'
     awarder: USTC
   #   icon: coursera
