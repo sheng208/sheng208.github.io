@@ -80,7 +80,7 @@ skills:
       - name: Reading
         description: ''
         percent: 75
-        icon: book
+        icon: book-open
 
 languages:
   - name: English
